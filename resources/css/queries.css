@@ -53,14 +53,6 @@
 
     .main-nav{display:none;}
 
-    h1{font-size: 180%;}
-    h2{font-size: 150%;}
-
-    .long-copy{
-        width: 100%;
-        margin-left: 0%;
-    }
-    
     .app-screen{width: 40%;}
     .steps-box:first-child{text-align: center;}
 
